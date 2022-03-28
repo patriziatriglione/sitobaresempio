@@ -1,0 +1,392 @@
+.container {
+    width: 1024px;
+    background-color: rgba(0,0,0,0.81);
+}
+.centro {
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+
+body {
+    background-image: url(Immagini/sfondo.png);
+    font-family: amethysta;
+    font-style: normal;
+    font-weight: 400;
+}
+/*header*/
+.logo {
+    padding-top: 0px;
+
+}
+.social {
+    padding-top: 68px;
+    padding-left: 255px;
+}
+
+.navigazione {
+    background-color: rgba(15,15,15,1.00);
+    padding-top: 0px;
+    margin-bottom: 17px;
+    z-index: 1;
+}
+
+
+.foto {
+    padding-bottom: 0px;
+    padding-top: 3px;
+    background-color: rgba(0,0,0,1.00);
+
+}
+.nav-link:hover {
+    color: rgba(255,200,17,1.00);
+}
+.dropdown-item {
+    background-color: rgba(0,0,0,0.69);
+    color: rgba(183,128,0,1.00);
+}
+.dropdown-menu {
+    background-color: rgba(0,0,0,1.00);
+}
+.navbar {
+    background-color: rgba(0,0,0,1.00);
+    margin-top: -5px;
+    margin-left: -15px;
+    margin-right: -14px;
+}
+.dropdown-item:hover {
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(255,177,0,1.00);
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .form-control.mr-sm-2 {
+    background-color: rgba(0,0,0,1.00);
+    border-color: rgba(167,129,3,1.00);
+    color: rgba(255,196,0,1.00);
+}
+
+
+
+
+
+
+.row .col-xl-12.foto .img-fluid {
+    max-width: 100%;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+.pubb {
+    margin-top: 87px;
+    margin-left: 1px;
+    padding-left: 41px;
+}
+#facebook {
+    margin-right: -30px;
+}
+#instagram {
+    margin-right: -30px;
+}
+#email {
+
+}
+.iconemobile {
+    display: none;
+}
+/*nav*/
+
+
+
+
+/*boxsinitra*/
+.preno {
+    margin-top: 147px;
+    float: left;
+    padding-left: 5px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(0,0,0,0.37);
+}
+.preno input {
+    padding-top: 0px;
+    border-color: rgba(81,81,81,1.00);
+    margin-bottom: 16px;
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(183,130,0,1.00);
+}
+.prenotazione {
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    color: rgba(168,120,2,1.00);
+}
+/*contenuto*/
+.contenuto {
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    margin-left: -3px;
+    display: inline-block;
+    color: rgba(168,120,2,1.00);
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgba(0,0,0,1.00);
+}
+/*footer*/
+ footer {
+    clear: none;
+    color: rgba(219,205,170,1.00);
+    text-align: center;
+    margin-top: 11px;
+}
+.row .pubb.col-xl-3.col-lg-2.col-md-3 .img-fluid {
+    margin-top: 11px;
+}
+.carta {
+    background-color: rgba(0,0,0,1.00);
+    padding-top: 13px;
+}
+.nav-link {
+    color: rgba(183,128,0,1.00);
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.ricerca {
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(156,119,0,1.00);
+}
+.ricerca:hover {
+    color: rgba(0,0,0,1.00);
+    background-color: rgba(255,197,0,1.00);
+}
+.listadrink {
+    background-color: rgba(0,0,0,1.00);
+}
+tbody tr td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 60%;
+
+}
+tr {
+    border-bottom: medium solid rgba(98,58,0,1.00);
+}
+
+tbody tr th {
+    font-size: large;
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 40%;
+
+}
+.titolo {
+    font-size: x-large;
+    color: rgba(0,0,0,1.00);
+    background-color: rgba(185,138,88,1.00);
+}
+.contatti {
+    color: rgba(185,131,0,1.00);
+}
+.contatti:hover {
+    color: rgba(255,171,3,1.00);
+    text-decoration: none;
+}
+
+.sfondo {
+    background-color: rgba(163,116,0,1.00);
+    color: rgba(0,0,0,1.00);
+}
+.prenotazione fieldset input {
+    border-color: rgba(83,82,82,1.00);
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(187,123,0,1.00);
+}
+.prenotazione fieldset textarea {
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(180,132,0,1.00);
+    border-color: rgba(83,82,82,1.00);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:576px){
+.container .row .col-xl-6.social.col-lg-6.col-sm-6.col-md-8 {
+    display: none;
+}
+
+.row .col-xl-6.logo.col-lg-6.col-sm-6.col-md-4 .img-fluid {
+    float: none;
+
+}
+
+.row .col-xl-6.logo.col-lg-6.col-sm-6.col-md-4 .iconemobile {
+    float: none;
+    margin-top: 64px;
+    display: inline;
+    margin-left: 501px;
+
+}
+
+.iconemobile a #face1 {
+    width: 50px;
+    height: 50px;
+}
+
+.iconemobile a #ista1   {
+    width: 50px;
+    height: 50px;
+}
+
+.iconemobile a #email1 {
+    width: 50px;
+    height: 50px;
+}
+.row .pubb.col-xl-3.col-lg-2.col-md-3 .img-fluid {
+    margin-left: 190px;
+}
+main .row .contenuto.col-lg-7.col-md-9.col-xl-12 {
+    margin-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width:992px){
+.container .row .preno.col-xl-3.col-lg-3.col-md-12 {
+    display: none;
+}
+.row .col-xl-6.social.col-lg-6.col-md-6.col-sm-6 a {
+    padding-left: 0px;
+}
+.col-xl-12.navigazione .navbar.navbar-expand-lg .navbar-toggler {
+    background-color: rgba(110,85,0,1.00);
+    color: rgba(0,0,0,1.00);
+    width: 45px;
+}
+.navbar.navbar-expand-lg .navbar-toggler .navbar-toggler-icon {
+    font-size: small;
+    text-align: left;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-right: 16px;
+}
+.listadrink {
+    max-width: 715px;
+    margin-left: -12px;
+
+
+
+
+}
+main .row .contenuto.col-lg-7.col-md-9.col-xl-8 {
+    margin-left: 44px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width:1200px){
+.container .row .col-xl-6.social.col-lg-6.col-md-6.col-sm-6 {
+
+
+}
+.row .col-xl-6.social.col-lg-6.col-sm-6.col-md-8 .icone {
+    margin-left: -33px;
+}
+
+#facebook {
+    margin-right: -40px;
+}
+#instagram {
+}
+.listadrink {
+    width: 929px;
+
+
+}
+
+
+
+
+}
+
+@media (max-width:768px){
+.row .col-xl-6.social.col-lg-6.col-sm-6.col-md-8 .icone {
+    margin-left: -234px;
+}
+nav ul li {
+    margin-left: -30px;
+
+}
+.row .pubb.col-xl-3.col-lg-2.col-md-3 .img-fluid {
+    margin-top: -93px;
+    margin-left: 80px;
+}
+.listadrink {
+    max-width: 537px;
+
+}
+.navbar.navbar-expand-lg #navbarSupportedContent1 .navbar-nav.mr-auto {
+    margin-left: 30px;
+}
+.contenuto.col-lg-7.col-md-9.col-xl-8 article iframe {
+    margin-left: -53px;
+    width: 500px;
+
+}
+
+
+
+
+
+
+}
